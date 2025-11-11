@@ -1,4 +1,3 @@
-// src/components/CategorySidebar.js
 import React from 'react';
 
 function CategorySidebar({ categories, selectedCategory, onCategorySelect }) {
